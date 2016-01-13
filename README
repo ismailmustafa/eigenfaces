@@ -1,0 +1,7 @@
+How to run:
+
+1) Open this directory in your matlab path
+2) Open the file named "eigenfaces.m"
+3) set TEST_RECOGNITION to:
+    - false = face detection algorithm will run
+    - true = face recognition algorithm will run
